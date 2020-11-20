@@ -59,3 +59,14 @@ footer {
   color: #fff;
   padding: 8px;
 }
+
+.accordion .accordion-navigation > a:hover,
+.accordion .accordion-navigation.active > a {
+  background: #333;
+  color: #fff;
+}
+
+.accordion .accordion-navigation > a {
+  background: #42a5db;
+  color: #fff;
+}
