@@ -49,3 +49,13 @@ footer {
   height: 80px;
   padding-top: 30px;
 }
+
+.margin-bottom {
+  margin-bottom: 20px;
+}
+
+.side-menu h4 {
+  background-color: #42a5db;
+  color: #fff;
+  padding: 8px;
+}
